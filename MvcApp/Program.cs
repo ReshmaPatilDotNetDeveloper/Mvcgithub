@@ -11,6 +11,7 @@ namespace MvcApp
 {
     public class Program
     {
+        //some changes
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
